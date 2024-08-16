@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_485" data-name="長方形 485" width="16" height="16" transform="translate(-4 -3)" fill="none" stroke="#ef8202" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="icon_map_box_map" transform="translate(4 3)" clip-path="url(#clip-path)">
+    <path id="中マド_1" data-name="中マド 1" d="M-3362.914-663.567a1.688,1.688,0,0,1-1.169-.468c-1.463-1.394-3.918-4.141-3.918-6.881a5.09,5.09,0,0,1,5.086-5.083,5.09,5.09,0,0,1,5.086,5.083c0,2.741-2.455,5.488-3.918,6.881A1.685,1.685,0,0,1-3362.914-663.567Zm0-9.611a2.263,2.263,0,0,0-2.26,2.261,2.262,2.262,0,0,0,2.26,2.26,2.263,2.263,0,0,0,2.261-2.26A2.264,2.264,0,0,0-3362.914-673.177Z" transform="translate(3366.914 674.784)" fill="#ef8202"/>
+  </g>
+</svg>

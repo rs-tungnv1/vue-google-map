@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_518" data-name="長方形 518" width="32" height="32" transform="translate(-2.43)" fill="#5cc0cf"/>
+    </clipPath>
+  </defs>
+  <g id="icon_map_btn_current-location" transform="translate(2.43)" clip-path="url(#clip-path)">
+    <path id="パス_1208" data-name="パス 1208" d="M26.434,12.688H23.558v.02a9.871,9.871,0,0,0-8.776-8.776H14.8V1.057a1.057,1.057,0,1,0-2.115,0V3.933H12.7a9.871,9.871,0,0,0-8.776,8.776v-.02H1.057a1.057,1.057,0,0,0,0,2.115H3.933v-.02a9.87,9.87,0,0,0,8.776,8.776h-.019v2.873a1.057,1.057,0,0,0,2.115,0V23.558h-.019a9.871,9.871,0,0,0,8.776-8.776v.02h2.871a1.057,1.057,0,0,0,0-2.115ZM13.746,17.27a3.525,3.525,0,1,1,3.525-3.525,3.524,3.524,0,0,1-3.525,3.525" transform="translate(-0.175 2.254)" fill="#5cc0cf"/>
+  </g>
+</svg>
